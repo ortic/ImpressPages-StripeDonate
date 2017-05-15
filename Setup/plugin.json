@@ -1,0 +1,21 @@
+{
+  "title": "Stripe Donate Button",
+  "version": "1.00",
+  "name": "StripeDonate",
+  "description": "Stripe donate button.",
+  "author": "Ortic Solutions GmbH",
+  "options": [
+    {
+      "label": "Stripe Publishable Key",
+      "name": "stripePublishableKey",
+      "type": "text",
+      "default": ""
+    },
+    {
+      "label": "Stripe Secret Key",
+      "name": "stripeSecretKey",
+      "type": "text",
+      "default": ""
+    }
+  ]
+}
